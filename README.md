@@ -2,7 +2,7 @@
 
   <!-- 动态打字效果 -->
   <a href="https://github.com/Sibuxiangx">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B+%E6%88%91%E6%98%AF+%E7%A7%81%E3%81%AF%E9%9B%A8;Welcome+to+my+GitHub+Profile+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=50&lines=%F0%9F%91%8B+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%E7%A7%81%E3%81%AF%E9%9B%A8;%E2%9C%A8+Welcome+to+my+GitHub+Profile;%F0%9F%9A%80+Bot+Developer+%7C+TypeScript+%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -55,8 +55,16 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sibuxiangx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibuxiangx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/github-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/github-stats.svg" />
+    <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/github-stats-dark.svg" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/top-langs.svg" />
+    <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/top-langs-dark.svg" alt="Top Languages" />
+  </picture>
 
   <br/>
 
@@ -81,10 +89,18 @@
 <div align="center">
 
   <a href="https://github.com/Sibuxiangx/qqbot-elysia">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibuxiangx&repo=qqbot-elysia&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-qqbot-elysia-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-qqbot-elysia.svg" />
+      <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-qqbot-elysia-dark.svg" alt="qqbot-elysia" />
+    </picture>
   </a>
   <a href="https://github.com/Sibuxiangx/LoveACE">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sibuxiangx&repo=LoveACE&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-LoveACE-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-LoveACE.svg" />
+      <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-LoveACE-dark.svg" alt="LoveACE" />
+    </picture>
   </a>
 
 </div>
