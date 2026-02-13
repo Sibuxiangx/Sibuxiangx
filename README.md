@@ -55,53 +55,45 @@
 
 <div align="center">
 
+  <!-- Profile Details -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/github-stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/github-stats.svg" />
-    <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/github-stats-dark.svg" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/top-langs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/top-langs.svg" />
-    <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/top-langs-dark.svg" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/0-profile-details.svg" />
+    <img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
   </picture>
 
   <br/>
 
+  <!-- Stats + Productive Time -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/3-stats.svg" />
+    <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/4-productive-time.svg" />
+    <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  </picture>
+
+  <br/>
+
+  <!-- Language Cards -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/1-repos-per-language.svg" />
+    <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/2-most-commit-language.svg" />
+    <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
+  </picture>
+
+  <br/>
+
+  <!-- Streak Stats -->
   <img width="60%" src="https://streak-stats.demolab.com?user=Sibuxiangx&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 📈 贡献活动
-
-<div align="center">
-
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sibuxiangx&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd" alt="Activity Graph" />
-
-</div>
-
----
-
-### 📌 精选项目
-
-<div align="center">
-
-  <a href="https://github.com/Sibuxiangx/qqbot-elysia">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-qqbot-elysia-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-qqbot-elysia.svg" />
-      <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-qqbot-elysia-dark.svg" alt="qqbot-elysia" />
-    </picture>
-  </a>
-  <a href="https://github.com/Sibuxiangx/LoveACE">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-LoveACE-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-LoveACE.svg" />
-      <img width="49%" src="https://raw.githubusercontent.com/Sibuxiangx/Sibuxiangx/output/pin-LoveACE-dark.svg" alt="LoveACE" />
-    </picture>
-  </a>
 
 </div>
 
