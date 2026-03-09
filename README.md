@@ -70,7 +70,7 @@
   <br/>
 
   <img width="49%" src="./metrics-languages.svg" alt="Languages" />
-  <img width="49%" src="./metrics-habits.svg" alt="Recent Activity" />
+  <img width="49%" src="./metrics-habits.svg" alt="Notable Contributions" />
 
   <br/>
 
