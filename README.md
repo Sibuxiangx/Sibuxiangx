@@ -55,7 +55,7 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Sibuxiangx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=Sibuxiangx&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -70,7 +70,7 @@
   <br/>
 
   <img width="49%" src="./metrics-languages.svg" alt="Languages" />
-  <img width="49%" src="./metrics-habits.svg" alt="Coding Habits" />
+  <img width="49%" src="./metrics-habits.svg" alt="Recent Activity" />
 
   <br/>
 

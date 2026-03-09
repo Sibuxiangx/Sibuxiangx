@@ -59,8 +59,8 @@ jobs:
             svg { background-color: #1a1b26 !important; color: #c0caf5 !important; }
             h2, .field { color: #c0caf5 !important; }
 
-      # --- Coding Habits ---
-      - name: "Metrics: Coding Habits"
+      # --- Recent Activity ---
+      - name: "Metrics: Recent Activity"
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -68,11 +68,10 @@ jobs:
           filename: metrics-habits.svg
           base: ""
           config_timezone: Asia/Shanghai
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_days: 30
-          plugin_habits_from: 200
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr, release, fork, star
           config_output: svg
           extras_css: |
             svg { background-color: #1a1b26 !important; color: #c0caf5 !important; }
@@ -90,6 +89,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
+          plugin_achievements_ignored: manager
           config_output: svg
           extras_css: |
             svg { background-color: #1a1b26 !important; color: #c0caf5 !important; }
