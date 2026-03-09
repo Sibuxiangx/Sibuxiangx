@@ -65,44 +65,20 @@
 
 <div align="center">
 
-  <!-- Profile Details -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/0-profile-details.svg" />
-    <img width="95%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-  </picture>
+  <img width="95%" src="./metrics-isocalendar.svg" alt="Isometric Commit Calendar" />
 
   <br/>
 
-  <!-- Stats + Productive Time -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/3-stats.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/3-stats.svg" />
-    <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/4-productive-time.svg" />
-    <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-  </picture>
+  <img width="49%" src="./metrics-languages.svg" alt="Languages" />
+  <img width="49%" src="./metrics-habits.svg" alt="Coding Habits" />
 
   <br/>
 
-  <!-- Language Cards -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/1-repos-per-language.svg" />
-    <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/2-most-commit-language.svg" />
-    <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
-  </picture>
+  <img width="49%" src="./metrics-achievements.svg" alt="Achievements" />
+  <img width="49%" src="./metrics-calendar.svg" alt="Contribution Calendar" />
 
   <br/>
 
-  <!-- Streak Stats -->
   <img width="60%" src="https://streak-stats.demolab.com?user=Sibuxiangx&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
 
 </div>
